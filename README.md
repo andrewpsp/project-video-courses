@@ -4,11 +4,21 @@
 
 - Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
+
+        |
+       / \
+     _/ _ \_
+     |** **|
+     |*****|
+     |     |
+   |'|  |  |`|
+ _/  |  |  |  \_
+ ||,-'--|--'-.|| 101
+
 ------------------------------
 
 Table of Contents
 ------------------------------
-
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
